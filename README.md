@@ -2,7 +2,8 @@
 Ping IP Monitoring Node.js
 
 Result :
-IP MONITORING                                                                                                                                                                                     
+
+IP MONITORING
 IP              : 1.1.1.1
 Previous Status : UP ⬆
 Current Status  : RTO ⬇
