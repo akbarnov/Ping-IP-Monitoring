@@ -1,0 +1,15 @@
+{
+  "name": "ping-ip-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "nodemon": "^3.0.1",
+    "ping": "^0.4.4"
+  }
+}
