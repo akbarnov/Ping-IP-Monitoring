@@ -52,9 +52,3 @@ cron.schedule('*/3 * * * * *', () => {
   }
 
 });
-
-
-// //nambah
-// const rawData = fs.readFileSync('ipStatus.json');
-// const parsedData = JSON.parse(rawData);
-// console.log(parsedData);
